@@ -1,0 +1,14 @@
+Calculadora utilizando da modificação do DOM
+
+frameworks e bibliotecas utilizadas:
+
+Javascript
+CSS
+Jquery
+Materialize
+
+
+
+
+Whatsapp: (85) 998171611
+Instagram: edu.t.bezerra
